@@ -1,0 +1,369 @@
+data :  <!DOCTYPE html>
+<html>
+<head>
+    
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta property="og:site_name" content="craigslist">
+	<meta name="twitter:card" content="preview">
+	<meta property="og:title" content="boston software/qa/dba/etc jobs - craigslist">
+	<meta name="description" content="boston software/qa/dba/etc jobs - craigslist">
+	<meta property="og:description" content="boston software/qa/dba/etc jobs - craigslist">
+	<meta property="og:url" content="https://boston.craigslist.org/search/sof">
+	<title>boston software/qa/dba/etc jobs - craigslist</title>
+	<link rel="canonical" href="https://boston.craigslist.org/search/sof">
+	<link rel="alternate" href="https://boston.craigslist.org/search/sof" hreflang="x-default">
+
+
+
+    <link rel="icon" href="/favicon.ico" id="favicon" />
+
+<script type="application/ld+json" id="ld_searchpage_data" >
+    {"@context":"https://schema.org","description":"Software/Qa/Dba/Etc jobs in Boston","breadcrumb":{"@context":"https://schema.org","itemListElement":[{"item":"https://boston.craigslist.org","@type":"ListItem","name":"boston.craigslist.org","position":1},{"name":"jobs","position":2,"@type":"ListItem","item":"https://boston.craigslist.org/search/jjj"},{"@type":"ListItem","name":"software","position":3,"item":"https://boston.craigslist.org/search/sof"}],"@type":"BreadcrumbList"},"@type":"SearchResultsPage"}
+</script>
+
+
+
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+
+        #no-js {
+            position: fixed;
+            z-index: 100000;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            overflow:auto;
+            margin: 0;
+            background: transparent;
+        }
+
+        #no-js h1 {
+            margin: 0;
+            padding: .5em;
+            color: #00E;
+            background-color: #cccccc;
+        }
+
+        #no-js  p {
+            margin: 1em;
+        }
+
+        .no-js header,
+        .no-js form,
+        .no-js .tsb,
+        .unsupported-browser header,
+        .unsupported-browser form,
+        .unsupported-browser .tsb {
+            display: none;
+        }
+
+        #curtain {
+            display: none;
+            position: fixed;
+            z-index: 9000;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: 0;
+            padding: 0;
+            border: 0;
+            background: transparent;
+        }
+
+        .show-curtain #curtain {
+            display: block;
+        }
+
+        #curtain .cover,
+        #curtain .content {
+            position: absolute;
+            display: block;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: 0;
+            padding: 0;
+            border: 0;
+        }
+
+        #curtain .cover {
+            z-index: 1;
+            background-color: white;
+        }
+
+        .show-curtain #curtain .cover {
+            opacity: 0.7;
+        }
+
+        .show-curtain.clear #curtain .cover {
+            opacity: 0;
+        }
+
+        .show-curtain.opaque #curtain .cover {
+            opacity: 1;
+        }
+
+        #curtain .content {
+            z-index: 2;
+            background: transparent;
+            color: #00E;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .unrecoverable #curtain .content,
+        .unsupported-browser #curtain .content {
+            display: block;
+            align-items: start;
+        }
+
+        #curtain h1 {
+            margin: 0;
+            padding: .5em;
+            background-color: #cccccc;
+        }
+
+        #curtain  p {
+            margin: 1em;
+            color: black;
+        }
+
+        .pacify #curtain .icom-:after {
+            content: "\eb23";
+        }
+
+        #curtain .text {
+            display: none;
+        }
+
+        .loading #curtain .text.loading,
+        .reading #curtain .text.reading,
+        .writing #curtain .text.writing,
+        .saving #curtain .text.saving,
+        .searching #curtain .text.searching,
+        .unrecoverable #curtain .text.unrecoverable,
+        .message #curtain .text.message {
+            display: block;
+        }
+
+        .unrecoverable #curtain .text.unrecoverable {
+        }
+
+        @keyframes rotate {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(359deg);
+            }
+        }
+
+        .pacify #curtain .icom- {
+            font-size: 3em;
+            animation: rotate 2s infinite linear;
+        }
+    </style>
+
+    <style>
+        body {
+            margin: 0;
+            border: 0;
+            padding: 0;
+        }
+
+        ol.cl-static-search-results, .cl-static-header {
+            display:none;
+        }
+
+        .no-js ol.cl-static-search-results, .no-js .cl-static-header {
+            display:block;
+        }
+    </style>
+
+
+</head>
+
+<body  class="no-js search"  >
+
+
+
+    <div class="cl-content">
+        <main>
+        </main>
+    </div>
+
+    <div id="curtain">
+        <div class="cover"></div>
+        <div class="content">
+            <div class="icom-"></div>
+            <div class="text loading">loading</div>
+            <div class="text reading">reading</div>
+            <div class="text writing">writing</div>
+            <div class="text saving">saving</div>
+            <div class="text searching">searching</div>
+            <div id="curtainText" class="text message"></div>
+            <div class="text unrecoverable">
+                 <p><a id="cl-unrecoverable-hard-refresh" href="#" onclick="location.reload(true);">refresh the page.</a></p>
+             </div>
+         </div>
+    </div>
+
+
+
+    <script>
+        (function() {
+            try {
+                window.onpageshow = function(event) {
+                    if (event.persisted && cl.upTime()>1000 && /iPhone/.test(navigator.userAgent)) {
+                        window.location.reload();
+                    }
+                };
+
+                window.addEventListener('DOMContentLoaded', function() {
+                    document.body.classList.remove('no-js');
+                });
+                document.body.classList.remove('no-js');
+            } catch(e) {
+                console.log(e);
+            }
+        })();
+    </script>
+
+    
+     
+     <script src="https://www.craigslist.org/static/www/59219857f2acaf38f9f5507d73c66d097cefa075.js" crossorigin="anonymous"></script>
+     <script>
+         window.cl.init(
+             'https://www.craigslist.org/static/www/',
+             '',
+             'www',
+             'search',
+             {
+'areaAbbrev': "bos",
+'areaCoords': ["42.358299","-71.060303"],
+'areaId': "4",
+'areaName': "boston",
+'defaultLocale': "en_US",
+'initialCategoryAbbr': "sof",
+'location': {"url":"boston.craigslist.org","radius":1,"region":"MA","postal":"02204","areaId":4,"lat":42.359,"country":"US","city":"Boston","lon":-71.06},
+'nearbyAreas': [{"host":"worcester","name":"worcester"},{"name":"rhode island","host":"providence"},{"name":"south coast","host":"southcoast"},{"name":"cape cod","host":"capecod"},{"host":"newlondon","name":"eastern CT"},{"host":"hartford","name":"hartford"},{"name":"new hampshire","host":"nh"},{"name":"western mass","host":"westernmass"},{"name":"northwest CT","host":"nwct"},{"host":"newhaven","name":"new haven"},{"host":"albany","name":"albany, NY"},{"name":"glens falls","host":"glensfalls"},{"name":"hudson valley","host":"hudsonvalley"},{"name":"long island","host":"longisland"},{"host":"catskills","name":"catskills"},{"name":"vermont","host":"vermont"},{"name":"maine","host":"maine"},{"host":"newjersey","name":"north jersey"},{"name":"new york","host":"newyork"},{"host":"plattsburgh","name":"plattsburgh"},{"host":"oneonta","name":"oneonta"},{"name":"jersey shore","host":"jerseyshore"},{"name":"utica","host":"utica"},{"host":"poconos","name":"poconos"},{"name":"central NJ","host":"cnj"}],
+'seoLinks': 0,
+'subareas': [{"id":1,"name":"boston/camb/brook","abbr":"gbs"},{"id":2,"name":"northwest/merrimack","abbr":"nwb"},{"id":3,"name":"metro west","abbr":"bmw"},{"abbr":"nos","name":"north shore","id":4},{"id":5,"name":"south shore","abbr":"sob"}],
+'whereAmI': {"area":{"region":"MA","lat":"42.358299","country":"US","subareas":[{"lat":"42.349948","abbr":"gbs","name":"boston/camb/brook","id":1,"description":"boston/cambridge/brookline","lon":"-71.189848"},{"description":"metro west","id":3,"lon":"-71.413760","name":"metro west","abbr":"bmw","lat":"42.316457"},{"lat":"42.556255","abbr":"nos","name":"north shore","lon":"-71.011101","description":"north shore","id":4},{"id":2,"description":"northwest/merrimack","lon":"-71.283832","abbr":"nwb","name":"northwest/merrimack","lat":"42.632879"},{"lat":"41.588453","description":"south shore","lon":"-71.101100","id":5,"name":"south shore","abbr":"sob"}],"abbr":"bos","name":"boston","id":4,"lon":"-71.060303","description":"boston","hostname":"boston"},"subareaId":0,"nearbyAreas":[{"id":59,"lon":"-73.756699","description":"albany, NY","hostname":"albany","abbr":"alb","name":"albany, NY","region":"NY","lat":"42.652500","subareas":[],"country":"US"},{"lat":"41.688900","country":"US","subareas":[],"region":"MA","name":"cape cod","abbr":"cap","description":"cape cod / islands","lon":"-70.296898","id":239,"hostname":"capecod"},{"country":"US","subareas":[],"lat":"42.000000","region":"NY","hostname":"catskills","lon":"-74.383301","id":451,"description":"catskills","name":"catskills","abbr":"cat"},{"region":"CT","lat":"41.344101","subareas":[],"country":"US","id":281,"description":"eastern CT","lon":"-72.103600","hostname":"newlondon","abbr":"nlo","name":"eastern CT"},{"name":"glens falls","abbr":"gfl","description":"glens falls, NY","id":686,"lon":"-73.643997","hostname":"glensfalls","lat":"43.309502","country":"US","subareas":[],"region":"NY"},{"description":"hartford, CT","id":44,"lon":"-72.685600","hostname":"hartford","name":"hartford","abbr":"htf","lat":"41.763599","country":"US","subareas":[],"region":"CT"},{"lat":"41.576698","country":"US","subareas":[],"region":"NY","name":"hudson valley","abbr":"hud","lon":"-73.803398","description":"hudson valley, NY","id":249,"hostname":"hudsonvalley"},{"region":"NY","country":"US","subareas":[],"lat":"40.822102","abbr":"isp","name":"long island","hostname":"longisland","id":250,"description":"long island, NY","lon":"-73.149696"},{"description":"maine","id":169,"lon":"-69.334602","hostname":"maine","abbr":"mne","name":"maine","region":"ME","lat":"44.693199","subareas":[],"country":"US"},{"subareas":[],"country":"US","lat":"43.654099","region":"NH","hostname":"nh","id":198,"lon":"-71.564201","description":"new hampshire","name":"new hampshire","abbr":"nhm"},{"name":"new haven","abbr":"hvn","description":"new haven, CT","id":168,"lon":"-72.928596","hostname":"newhaven","lat":"41.308102","country":"US","subareas":[],"region":"CT"},{"subareas":[],"country":"US","lat":"41.914501","region":"CT","name":"northwest CT","abbr":"nct","hostname":"nwct","lon":"-73.276100","description":"northwest CT","id":354},{"region":"RI","lat":"41.830200","country":"US","subareas":[],"abbr":"prv","name":"rhode island","description":"rhode island","id":38,"lon":"-71.409103","hostname":"providence"},{"abbr":"sma","name":"south coast","hostname":"southcoast","id":378,"lon":"-71.048599","description":"south coast, MA","region":"MA","country":"US","subareas":[],"lat":"41.638500"},{"abbr":"brl","name":"vermont","hostname":"vermont","id":93,"description":"vermont","lon":"-73.193703","region":"VT","country":"US","subareas":[],"lat":"44.461201"},{"hostname":"westernmass","description":"western massachusetts","id":173,"lon":"-73.000000","abbr":"wma","name":"western mass","region":"MA","subareas":[],"country":"US","lat":"42.349998"},{"description":"worcester / central MA","lon":"-71.802803","id":240,"hostname":"worcester","abbr":"wor","name":"worcester","region":"MA","lat":"42.262501","country":"US","subareas":[]}],"searchLocation":0}
+},
+             0
+         );
+     </script>
+     
+
+    
+    <iframe id="cl-local-storage" src="https://www.craigslist.org/static/www/localStorage-092e9f9e2f09450529e744902aa7cdb3a5cc868d.html" style="display:none;"></iframe>
+    
+
+
+    <script>
+        window.cl.specialCurtainMessages = {
+            unsupportedBrowser: [
+                "We've detected you are using a browser that is missing critical features.",
+                "Please visit craigslist from a modern browser."
+            ],
+            unrecoverableError: [
+                "There was an error loading the page."
+            ]
+        };
+    </script>
+    <div class="cl-static-header">
+        <a href="/">craigslist</a>
+            <h1>Software/Qa/Dba/Etc jobs in Boston</h1>
+    </div>
+
+    <ol class="cl-static-search-results">
+        <li class="cl-static-hub-links">
+            <div>see also</div>
+        </li>
+        <li class="cl-static-search-result" title="Enroll in the Software Boot Camp Online Today and Land a Tech Job">
+            <a href="https://boston.craigslist.org/gbs/sof/d/cambridge-enroll-in-the-software-boot/7827422640.html">
+                <div class="title">Enroll in the Software Boot Camp Online Today and Land a Tech Job</div>
+
+                <div class="details">
+                    <div class="price">$0</div>
+                    <div class="location">
+                        boston/cambridge/brookline
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li class="cl-static-search-result" title="Online Tutor for Algorithms Class">
+            <a href="https://boston.craigslist.org/gbs/sof/d/boston-online-tutor-for-algorithms-class/7825598672.html">
+                <div class="title">Online Tutor for Algorithms Class</div>
+
+                <div class="details">
+                    <div class="price">$0</div>
+                    <div class="location">
+                        boston/cambridge/brookline
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li class="cl-static-search-result" title="Site Reliability Engineer II">
+            <a href="https://boston.craigslist.org/gbs/sof/d/boston-site-reliability-engineer-ii/7824768448.html">
+                <div class="title">Site Reliability Engineer II</div>
+
+                <div class="details">
+                    <div class="price">$0</div>
+                    <div class="location">
+                        boston/cambridge/brookline
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li class="cl-static-search-result" title="Software Engineering Manager">
+            <a href="https://boston.craigslist.org/sob/sof/d/dedham-software-engineering-manager/7824242068.html">
+                <div class="title">Software Engineering Manager</div>
+
+                <div class="details">
+                    <div class="price">$0</div>
+                    <div class="location">
+                        boston: south shore
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li class="cl-static-search-result" title="Part-time contract work assisting psychotherapist with tech issues near Newton M">
+            <a href="https://boston.craigslist.org/gbs/sof/d/newton-center-part-time-contract-work/7823474358.html">
+                <div class="title">Part-time contract work assisting psychotherapist with tech issues near Newton M</div>
+
+                <div class="details">
+                    <div class="price">$0</div>
+                    <div class="location">
+                        Newton
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li class="cl-static-search-result" title="Looking for MIT CS major for AI project">
+            <a href="https://boston.craigslist.org/gbs/sof/d/cambridge-looking-for-mit-cs-major-for/7823025552.html">
+                <div class="title">Looking for MIT CS major for AI project</div>
+
+                <div class="details">
+                    <div class="price">$0</div>
+                    <div class="location">
+                        Boston
+                    </div>
+                </div>
+            </a>
+        </li>
+    </ol>
+</body>
+</html>
+
